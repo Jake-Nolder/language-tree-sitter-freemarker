@@ -4,7 +4,7 @@
   "description": "A short description of your language package",
   "keywords": [
     "language",
-    "freemarker"
+    "freemarker",
     "grammar"
   ],
   "repository": "https://github.com/atom/language-tree-sitter-freemarker",
