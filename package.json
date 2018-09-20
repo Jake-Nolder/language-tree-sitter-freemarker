@@ -1,0 +1,15 @@
+{
+  "name": "language-tree-sitter-freemarker",
+  "version": "0.0.0",
+  "description": "A short description of your language package",
+  "keywords": [
+    "language",
+    "freemarker"
+    "grammar"
+  ],
+  "repository": "https://github.com/atom/language-tree-sitter-freemarker",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
