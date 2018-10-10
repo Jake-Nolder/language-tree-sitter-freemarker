@@ -7,7 +7,7 @@
     "freemarker",
     "grammar"
   ],
-  "repository": "https://github.com/atom/language-tree-sitter-freemarker",
+  "repository": "https://github.com/Jake-Nolder/language-tree-sitter-freemarker/tree/master",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
