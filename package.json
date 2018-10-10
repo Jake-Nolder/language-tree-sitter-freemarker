@@ -1,13 +1,16 @@
 {
   "name": "language-tree-sitter-freemarker",
   "version": "0.0.0",
-  "description": "A short description of my language package",
+  "description": "This is for syntax highlighting the freemarker language.",
   "keywords": [
     "language",
     "freemarker",
     "grammar"
   ],
-  "repository": "https://github.com/Jake-Nolder/language-tree-sitter-freemarker/tree/master",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jake-Nolder/language-tree-sitter-freemarker/tree/master"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
