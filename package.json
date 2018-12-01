@@ -3,9 +3,7 @@
   "version": "0.0.0",
   "description": "This is for syntax highlighting the freemarker language.",
   "keywords": [
-    "language",
-    "freemarker",
-    "grammar"
+    "tree-sitter"
   ],
   "repository": {
     "type": "git",

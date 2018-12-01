@@ -1,9 +1,0 @@
-{
-  "scopeName": "source.tree-sitter-freemarker",
-  "name": "TreeSitterFreemarker",
-  "parser": "tree-sitter-freemarker",
-  "type": "tree-sitter",
-  "fileTypes": [
-    "ftl"
-  ]
-}
