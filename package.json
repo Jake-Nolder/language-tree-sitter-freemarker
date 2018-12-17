@@ -16,6 +16,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "tree-sitter-freemarker": "^1.0.0"
+    "tree-sitter-freemarker": "^1.0.0",
+    "tree-sitter-html": "^0.13.2"
   }
 }
