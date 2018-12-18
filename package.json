@@ -1,21 +1,23 @@
 {
   "name": "tsl-freemarker",
+  "main": "lib/main",
   "version": "1.3.0",
   "description": "This is for syntax highlighting the freemarker language.",
-  "main": "lib/main",
   "keywords": [
-    "tree-sitter",
-    "freemarker",
-    "language",
-    "atom"
+    "tree-sitter"
   ],
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  },
+  "homepage": "https://atom.io/packages/tsl-freemarker",
   "repository": {
     "type": "git",
     "url": "https://github.com/Jake-Nolder/language-tree-sitter-freemarker"
   },
   "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+  "bugs": {
+    "url": "https://github.com/Jake-Nolder/language-tree-sitter-freemarker/issues"
   },
   "dependencies": {
     "tree-sitter-freemarker": "*"
