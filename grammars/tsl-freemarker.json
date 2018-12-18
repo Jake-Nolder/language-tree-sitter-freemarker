@@ -10,6 +10,8 @@
 
   "scopes": {
     "ftlTag_definition": "freemarker.entity.block",
+    "ftlTag_start": "freemarker.flag.start",
+    "ftlTag_end": "freemarker.flag.end",
     "comments_definition": "comment.block.html"
   }
 }
