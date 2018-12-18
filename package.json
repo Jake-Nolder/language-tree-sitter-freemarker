@@ -2,6 +2,7 @@
   "name": "tsl-freemarker",
   "version": "1.2.3",
   "description": "This is for syntax highlighting the freemarker language.",
+  "main": "lib/main",
   "keywords": [
     "tree-sitter",
     "freemarker",
