@@ -5,7 +5,8 @@
   "keywords": [
     "tree-sitter",
     "freemarker",
-    "language"
+    "language",
+    "atom"
   ],
   "repository": {
     "type": "git",
