@@ -1,8 +1,8 @@
 {
   "name": "tsl-freemarker",
   "main": "lib/main",
-  "version": "1.4.0",
-  "description": "HTML language support in Atom",
+  "version": "1.3.2",
+  "description": "This is for syntax highlighting the freemarker language.",
   "keywords": [
     "tree-sitter"
   ],
@@ -10,21 +10,16 @@
     "atom": "*",
     "node": "*"
   },
-  "homepage": "https://github.com/Jake-Nolder/language-tree-sitter-freemarker",
+  "homepage": "https://atom.io/packages/tsl-freemarker",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Jake-Nolder/language-tree-sitter-freemarker.git"
+    "url": "https://github.com/Jake-Nolder/language-tree-sitter-freemarker"
   },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Jake-Nolder/language-tree-sitter-freemarker/issues"
   },
   "dependencies": {
-    "atom-grammar-test": "^0.6.3",
-    "tree-sitter-html": "^0.13.2",
-    "tree-sitter-embedded-template": "^0.13.0"
-  },
-  "devDependencies": {
-    "coffeelint": "^1.10.1"
+    "tree-sitter-freemarker": "*"
   }
 }
