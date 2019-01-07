@@ -1,6 +1,6 @@
 {
   "name": "Freemarker",
-  "scopeName": "Freemarker",
+  "scopeName": "text.freemarker",
   "type": "tree-sitter",
   "parser": "tree-sitter-freemarker",
 
@@ -9,27 +9,8 @@
   ],
 
   "scopes": {
-    "assign": "entity.name.assign",
-    "attempt": "entity.name.attempt",
-    "fallback": "entity.name.fallback",
-    "flush": "entity.name.flush",
-    "ftl": "entity.name.ftl",
-    "global": "entity.name.global",
-    "if": "entity.name.if",
-    "import": "entity.name.import",
-    "include": "entity.name.include",
-    "function": "entity.name.function",
-    "list": "entity.name.list",
-    "local": "entity.name.local",
-    "lt": "entity.name.lt",
-    "macro": "entity.name.macro",
-    "nt": "entity.name.nt",
-    "recurse": "entity.name.recurse",
-    "rt": "entity.name.rt",
-    "setting": "entity.name.setting",
-    "stop": "entity.name.stop",
-    "switch": "entity.name.switch",
-    "t": "entity.name.t",
-    "visit": "entity.name.visit"
+    "source_file": "entity.name.source",
+    "directive": "entity.name.directive",
+    "list": "entity.name.list"
   }
 }
