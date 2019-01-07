@@ -14,11 +14,11 @@
   "homepage": "https://atom.io/packages/tsl-freemarker",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Jake-Nolder/language-tree-sitter-freemarker"
+    "url": "https://github.com/Jake-Nolder/tsl-freemarker"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Jake-Nolder/language-tree-sitter-freemarker/issues"
+    "url": "https://github.com/Jake-Nolder/tsl-freemarker/issues"
   },
   "dependencies": {
     "tree-sitter-freemarker": "^1.2.0"
