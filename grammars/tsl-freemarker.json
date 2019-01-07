@@ -11,6 +11,10 @@
   "scopes": {
     "source_file": "entity.name.source",
     "directive": "entity.name.directive",
-    "list": "entity.name.list"
+    "list": "entity.name.list",
+    "binary_expression": "entity.binary.expression",
+    "expression": "entity.type.expression",
+    "parameter": "entity.type.parameter",
+    "operator": "entity.type.operator"
   }
 }
