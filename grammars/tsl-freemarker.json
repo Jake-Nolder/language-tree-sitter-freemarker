@@ -9,9 +9,27 @@
   ],
 
   "scopes": {
-    "ftlTag_definition": "freemarker.entity.block",
-    "ftlTag_start": "freemarker.flag.start",
-    "ftlTag_end": "freemarker.flag.end",
-    "comments_definition": "comment.block.html"
+    "assign": "entity.name.assign",
+    "attempt": "entity.name.attempt",
+    "fallback": "entity.name.fallback",
+    "flush": "entity.name.flush",
+    "ftl": "entity.name.ftl",
+    "global": "entity.name.global",
+    "if": "entity.name.if",
+    "import": "entity.name.import",
+    "include": "entity.name.include",
+    "function": "entity.name.function",
+    "list": "entity.name.list",
+    "local": "entity.name.local",
+    "lt": "entity.name.lt",
+    "macro": "entity.name.macro",
+    "nt": "entity.name.nt",
+    "recurse": "entity.name.recurse",
+    "rt": "entity.name.rt",
+    "setting": "entity.name.setting",
+    "stop": "entity.name.stop",
+    "switch": "entity.name.switch",
+    "t": "entity.name.t",
+    "visit": "entity.name.visit"
   }
 }

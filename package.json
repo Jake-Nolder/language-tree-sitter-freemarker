@@ -6,6 +6,7 @@
   "keywords": [
     "tree-sitter"
   ],
+  "theme": "syntax",
   "engines": {
     "atom": "*",
     "node": "*"
@@ -20,6 +21,6 @@
     "url": "https://github.com/Jake-Nolder/language-tree-sitter-freemarker/issues"
   },
   "dependencies": {
-    "tree-sitter-freemarker": "*"
+    "tree-sitter-freemarker": "^1.2.0"
   }
 }
