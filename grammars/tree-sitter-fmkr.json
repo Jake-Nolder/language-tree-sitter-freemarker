@@ -1,8 +1,9 @@
 {
   "name": "Freemarker",
-  "scopeName": "text.freemarker",
+  "scopeName": "source.freemarker",
   "type": "tree-sitter",
   "parser": "tree-sitter-freemarker",
+  "limitLineLength": false,
 
   "fileTypes": [
     "ftl"

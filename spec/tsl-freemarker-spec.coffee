@@ -11,8 +11,8 @@ describe "Freemarker grammar", ->
       atom.packages.activatePackage("tsl-freemarker")
 
     runs ->
-      grammar = atom.syntax.grammarForScopeName("text.freemarker")
+      grammar = atom.syntax.grammarForScopeName("source.freemarker")
 
   it "parses the grammar", ->
     expect(grammar).toBeTruthy()
-    expect(grammar.scopeName).toBe "text.freemarker"
+    expect(grammar.scopeName).toBe "source.freemarker"

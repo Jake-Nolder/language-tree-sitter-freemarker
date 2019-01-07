@@ -7,7 +7,7 @@
     "tree-sitter"
   ],
   "engines": {
-    "atom": "*",
+    "atom": ">=1.0.0 <2.0.0",
     "node": "*"
   },
   "homepage": "https://atom.io/packages/tsl-freemarker",
@@ -20,6 +20,7 @@
     "url": "https://github.com/Jake-Nolder/tsl-freemarker/issues"
   },
   "dependencies": {
+    "atom-grammar-test": "^0.6.3",
     "tree-sitter-freemarker": "^1.2.2"
   }
 }
