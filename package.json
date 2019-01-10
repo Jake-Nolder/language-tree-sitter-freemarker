@@ -20,6 +20,6 @@
     "url": "https://github.com/Jake-Nolder/tsl-freemarker/issues"
   },
   "dependencies": {
-    "tree-sitter-freemarker": "^1.4.3"
+    "tree-sitter-freemarker": "^1.4.5"
   }
 }
