@@ -21,6 +21,6 @@
   },
   "dependencies": {
     "atom-grammar-test": "^0.6.3",
-    "tree-sitter-freemarker": "^1.2.3"
+    "tree-sitter-freemarker": "^1.4.3"
   }
 }

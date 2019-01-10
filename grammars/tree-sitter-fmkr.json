@@ -9,13 +9,31 @@
     "ftl"
   ],
 
+  "injectionSelector": "text.html.basic",
+
   "scopes": {
     "source_file": "entity.name.source",
     "directive": "entity.name.directive",
-    "list": "entity.name.list",
-    "binary_expression": "entity.binary.expression",
     "expression": "entity.type.expression",
-    "parameter": "entity.type.parameter",
-    "operator": "entity.type.operator"
-  }
+
+    "operator": "entity.type.operator",
+    "string": "entity.type.string",
+    "bracket": "entity.type.bracket",
+
+    "built_in": "entity.type.built_in",
+    "built_in>top_level": "entity.type.built_in",
+
+    "top_level": "entity.type.top_level",
+    "sub_level": "entity.type.sub_level",
+    "spec_var": "entity.type.spec_var",
+
+    "user_defined": "entity.name.user_defined",
+    "interpolation": "entity.name.interpolation",
+
+    "ERROR": "entity.type.error"
+  },
+
+  "folds": [{
+    "type": "directive"
+  }]
 }

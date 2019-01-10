@@ -1,17 +1,48 @@
 @import "colors.less";
 
-.syntax--entity.syntax--name.syntax--directive {
+.syntax--directive {
   color: @red;
+}
 
-  .syntax--expression {
-    color: @green;
-  }
+.syntax--operator {
+  color: @cyan;
+}
 
-  .syntax--parameter {
+.syntax--string {
+  color: @green;
+}
+
+.syntax--directive .syntax--bracket {
+  color: @dark-blue;
+}
+
+.syntax--built_in {
+  color: @blue;
+}
+
+.syntax--top_level {
+  color: @orange;
+}
+
+.syntax--sub_level {
+  color: @very-light-gray;
+}
+
+.syntax--spec_var {
+  color: @yellow;
+}
+
+.syntax--user_defined {
+  color: @purple;
+}
+
+.syntax--interpolation {
+  .syntax--top_level {
     color: @orange;
   }
+}
 
-  .syntax--operator {
-    color: @cyan;
-  }
+.syntax--entity.syntax--type.syntax--error {
+  background-color: @red;
+  color: #ffffff;
 }
